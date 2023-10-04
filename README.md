@@ -1,0 +1,1 @@
+# gooddata-analytics-as-code
