@@ -1,0 +1,8 @@
+profiles:
+  dev:
+    host: https://odd-bobcat.trial.cloud.gooddata.com/
+    token: $GOODDATA_API_TOKEN
+    workspace_id: e00029403c7c4772ad90183b403c9df7
+    data_source_id: gdc_demo_f0e5bf96-fdfc-4603-8157-87d5121786f4
+source_dir: analytics
+default_profile: dev
